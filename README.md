@@ -23,4 +23,5 @@ Finish your MVP before starting any challenges.
 2. Add a tip value to each complete order.
 - Display the tips on the DOM.
 - Display the total of tips on the DOM
+
 ![README](https://user-images.githubusercontent.com/85176043/183534348-26dbba59-01b1-425f-879a-6e014f59921e.png)
